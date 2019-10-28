@@ -17,12 +17,11 @@ The parking lot problem is a popular OODP design problem asked by many companies
 
 ## Requirements
 
-1. JDK
+1. Latest JDK
 2. Maven
 
 ## Installing the application (required before other steps)
 `mvn clean install`
-(./bin/setup is not in use)
 
 ## Running unit tests
 `mvn test`
